@@ -1,5 +1,5 @@
 ### Hi there 👋 welcome to my Github
-
+[![my's GitHub stats](https://github-readme-stats.vercel.app/api?username=thisjust-in)](https://github.com/thisjust-in/github-readme-stats)
 <!--
 **thisjust-in/thisjust-in** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
