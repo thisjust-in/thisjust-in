@@ -1,5 +1,5 @@
 ### Hi there 👋 welcome to my Github
-My name is Justin, a product minded developer with a passion to build seamless digital experiences
+My name is Justin, I like to build fun projects 
 
 <!--
 **thisjust-in/thisjust-in** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
